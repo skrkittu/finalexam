@@ -15,6 +15,23 @@
         android:layout_marginTop="10dp"
         android:orientation="vertical">
 
+<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scrollbarSize="30sp"
+            android:text="What does this mean?"
+            android:textColor="#000"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:layout_marginTop="10dp"
+            android:textSize="18sp"
+
+            android:text="When you convert currency,you sell one currency to buy another. \nExchange Rates vary; the lowest are the official Interbank rates. Credit cards typically add 2% and banks typically add 4% to convert cash." />
 
 
     </LinearLayout>
