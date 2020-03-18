@@ -6,5 +6,5 @@
     android:orientation="vertical"
     tools:context=".fragment.CountryList">
 
-
+.
 </LinearLayout>
